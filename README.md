@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cuaderno Virtual Universitario de Bases de Datos 
 
 ## Solo Ejercicios, Tareas y Proyectos
@@ -18,3 +19,6 @@
 > [!IMPORTANT]
 > Creado con fines educativos y personales.
 
+=======
+# Bases-de-Datos-II-5toIDSTM
+>>>>>>> a3f3cca (Tarea 3 Infografia Agregada con carpeta imgs)
