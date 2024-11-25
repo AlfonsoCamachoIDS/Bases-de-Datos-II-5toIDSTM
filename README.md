@@ -6,9 +6,9 @@
 ### Temario
 
 - Algebra Lineal
-- Task 2
-- Task 3
-- Task 4git rebase --continue
+- "Tarea sin poder realizar, falta link en plataforma"
+- Infografia de Bases de Datos
+- Task 4
 - Task 5
 - Task 6
 - Task 7
