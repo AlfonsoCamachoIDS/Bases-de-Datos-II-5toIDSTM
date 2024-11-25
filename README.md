@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Cuaderno Virtual Universitario de Bases de Datos 
+
+# Cuaderno Virtual Universitario de Bases de Datos
 
 ## Solo Ejercicios, Tareas y Proyectos
 
@@ -8,7 +8,7 @@
 - Algebra Lineal
 - Task 2
 - Task 3
-- Task 4
+- Task 4git rebase --continue
 - Task 5
 - Task 6
 - Task 7
@@ -18,7 +18,3 @@
 
 > [!IMPORTANT]
 > Creado con fines educativos y personales.
-
-=======
-# Bases-de-Datos-II-5toIDSTM
->>>>>>> a3f3cca (Tarea 3 Infografia Agregada con carpeta imgs)

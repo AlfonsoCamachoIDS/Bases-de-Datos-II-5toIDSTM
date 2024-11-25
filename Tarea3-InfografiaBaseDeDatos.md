@@ -1,7 +1,7 @@
 
 # Tarea: Infografía Base de Datos
 
---- 
+---
 
 **Maestro**: Arturo De Casso
 **Materia:** Bases de Datos II  
@@ -23,11 +23,14 @@ Se evaluará conforme a la rúbrica anexa, se anexa enlace a descripción de inf
 [¿Que es una Infografia? Ejemplos, plantillas y consejos](<https://es.venngage.com/blog/que-es-una-infografia/>)
 
 ## Desarrollo
-[Desarrolla aquí el contenido de la tarea.]
+
+![Infografia de Base de Datos](/imgs/infoGrafDataBase.png)
 
 ## Conclusión
-[Escribe aquí la conclusión de la tarea.]
+
+Las bases de datos son sistemas organizados para almacenar y gestionar información de manera eficiente. Están compuestas por datos, software, hardware, usuarios y procedimientos. Existen diferentes tipos de bases de datos, como las relacionales, NoSQL, orientadas a grafos y en la nube, cada una con sus propias ventajas y usos específicos. Los principales usuarios incluyen administradores de bases de datos, desarrolladores y usuarios finales. Además, el modelado de datos, los sistemas de gestión de bases de datos y la integridad de datos son aspectos cruciales para su funcionamiento eficaz.
 
 ## Referencias
-- [Referencia 1]
-- [Referencia 2]
+
+- [Miscrosoft Copilot](https://copilot.microsoft.com/)
+- [Adobe Express](https://new.express.adobe.com/) Infografia
