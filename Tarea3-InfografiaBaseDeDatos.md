@@ -6,6 +6,7 @@
 **Maestro**: Arturo De Casso
 **Materia:** Bases de Datos II  
 **Fecha de Entrega:** 9 sept 24
+**Fecha de Elaboracion:** 25 Nov 24
 
 ## Instrucciones
 
