@@ -87,8 +87,8 @@ insert into impositor (id_cliente, numero_cuenta) values
 
 Creacion de tablas interrelacionadas entre si creada sin muchas complicaciones.
 
-![Resultado tabla clientes](/imgs/tarea5/tabla-cliente.png)
-![Resultado tabla cuenta](/imgs/tarea5/tabla-cuenta.png)
-![Resultado tabla impositor](/imgs/tarea5/tabla-impositor.png)
+![Resultado tabla clientes](/imgs/tarea5/tabla-cliente.png "Tabla Clientes")
+![Resultado tabla cuenta](/imgs/tarea5/tabla-cuenta.png "Tabla cuenta")
+![Resultado tabla impositor](/imgs/tarea5/tabla-impositor.png "Tabla Impositor")
 
  ---

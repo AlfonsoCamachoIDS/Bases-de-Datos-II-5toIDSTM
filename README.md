@@ -7,9 +7,9 @@
 
 - Algebra Lineal
 - "Tarea sin poder realizar, falta link en plataforma"
-- Infografia de Bases de Datos
-- Task 4
-- Task 5
+- Infografia de Bases de Datos.
+- Creacion de Tablas y Cargar Datos SQL.
+- Crear Tablas Clientes, Cuenta e Impositor.
 - Task 6
 - Task 7
 - Task 8
